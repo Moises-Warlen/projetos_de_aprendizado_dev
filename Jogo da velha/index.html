@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo Da velha</title>
+    <link rel="shortcut icon" href="jogo-da-velha.png" type="image/x-icon">
+    <link rel="stylesheet" href="responsividade.css">
+    <script src="index.js"></script>
+</head>
+<body>
+    <h1>Jogo da Velha</h1>
+    <div class="container">
+        <!-- div onde mostra o resustado do jogo -->
+        <div id="mostrador">
+        </div>
+        <!-- criando a tabela do jogo -->
+        <table class="jogo">
+            <!-- criando as linha da tabela -->
+            <tr>
+                <!-- criando as coluna da tabela -->
+                <td id="a1" class="quadrado" onclick="jogar(this)"></td>
+                <td id="a2" class="quadrado" onclick="jogar(this)"></td>
+                <td id="a3" class="quadrado" onclick="jogar(this)"></td>
+            </tr>
+            <!-- criando as linha da tabela -->
+            <tr>
+                <!-- criando as coluna da tabela -->
+                <td id="b1" class="quadrado" onclick="jogar(this)"></td>
+                <td id="b2" class="quadrado" onclick="jogar(this)"></td>
+                <td id="b3" class="quadrado" onclick="jogar(this)"></td>
+            </tr>
+            <!-- criando as linha da tabela -->
+            <tr>
+                <!-- criando as coluna da tabela -->
+                <td id="c1" class="quadrado" onclick="jogar(this)"></td>
+                <td id="c2" class="quadrado" onclick="jogar(this)"></td>
+                <td id="c3" class="quadrado" onclick="jogar(this)"></td>
+            </tr>
+        </table>
+        <!-- chamando a função para reiniciar o  jogo -->
+        <button onclick="reiniciar()">Reiniciar</button>
+    </div>
+    <!--<audio controls>
+	<source src="audio/linkin-park.mp3" type="audio/mp3">
+</audio> -->
+    <footer> Desenvolvido por - Moises Warlen</footer>
+</body>
+</html>

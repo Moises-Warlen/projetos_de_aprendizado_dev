@@ -1,0 +1,330 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.jogo {
+    margin: 0 auto;
+    border-radius: 15px;
+}
+
+@media only screen and (min-width: 350px) {
+    body {
+        background: rgb(59, 59, 245);
+        overflow: hidden;
+    }
+
+    h1 {
+        padding-top: 29px;
+        text-align: center;
+        margin-bottom: 3%;
+        color: white;
+        font-size: 18px;
+        font-family: 'Press Start 2P', cursive;
+    }
+
+    audio {
+        margin-left: 25%;
+        padding-top: 19px;
+    }
+
+    #mostrador {
+        width: 90%;
+        margin-left: 5%;
+        margin-bottom: 2%;
+        padding-top: 12px;
+        padding-left: 1%;
+        padding-right: 1%;
+        font-size: 14px;
+        color: gray;
+        font-family: 'Press Start 2P', cursive;
+    }
+
+    .container {
+        flex-flow: row wrap;
+        align-items: center;
+        text-align: center;
+        width: 60%;
+        justify-content: center;
+        padding: 30px;
+        margin-right: 10%;
+        margin-left: 19%;
+        border-radius: 10px;
+        background: rgb(240, 234, 223);
+    }
+
+    .quadrado {
+        width: 98px;
+        height: 98px;
+        text-align: center;
+        font-size: 30px;
+        background: rgb(172, 172, 175);
+        color: aliceblue;
+        font-family: 'Press Start 2P', cursive;
+        border-radius: 10px;
+    }
+
+    button {
+        text-align: center;
+        font-family: 'Press Start 2P', cursive;
+        font-size: 12px;
+        background: none;
+        color: gray;
+        margin-top: 25px;
+        padding: 15px;
+        border-radius: 10px;
+        border: 1px solid;
+    }
+
+    button:hover {
+        background: gray;
+        color: rgb(241, 238, 238);
+    }
+
+    footer {
+        padding-top: 6px;
+        text-align: center;
+        font-family: 'Press Start 2P', cursive;
+        font-size: 8px;
+        color: white;
+    }
+}
+
+/*Dispostivos Médios (Tablets deitados, 768px para cima) */
+@media only screen and (min-width: 768px) {
+    body {
+        background: rgb(122, 230, 122);
+        overflow: hidden;
+        height: 600px;
+    }
+
+    h1 {
+        padding-top: 29px;
+        text-align: center;
+        margin-bottom: 3%;
+        color: gray;
+        font-size: 20px;
+        font-family: 'Press Start 2P', cursive;
+    }
+
+    #mostrador {
+        width: 90%;
+        margin-left: 5%;
+        margin-bottom: 2%;
+        padding-top: 12px;
+        padding-left: 1%;
+        padding-right: 1%;
+        font-size: 19px;
+        color: gray;
+        font-family: 'Press Start 2P', cursive;
+    }
+
+    .container {
+        flex-flow: row wrap;
+        align-items: center;
+        text-align: center;
+        width: 60%;
+        height:400px;
+        justify-content: center;
+        padding: 30px;
+        margin-right: 10%;
+        margin-left: 19%;
+        border-radius: 10px;
+        background: rgb(240, 234, 223);
+    }
+
+    .quadrado {
+        width: 100px;
+        height: 100px;
+        text-align: center;
+        font-size: 28px;
+        background: rgb(172, 172, 175);
+        color: aliceblue;
+        font-family: 'Press Start 2P', cursive;
+        border-radius: 15px;
+    }
+
+    button {
+        text-align: center;
+        font-family: 'Press Start 2P', cursive;
+        font-size: 12px;
+        background: none;
+        color: gray;
+        margin-top: 25px;
+        padding: 15px;
+        border-radius: 10px;
+        border: 1px solid;
+    }
+
+    button:hover {
+
+        background: gray;
+        color: rgb(241, 238, 238);
+    }
+
+    footer {
+        padding-top: 11px;
+        text-align: center;
+        font-family: 'Press Start 2P', cursive;
+        font-size: 10px;
+        color: gray;
+    }
+}
+
+/* Dispostivos Largos (laptops/desktops, 992px para cima) */
+@media only screen and (min-width: 992px) {
+    body {
+        background: rgb(223, 220, 220);
+    }
+
+    h1 {
+        padding-top: 29px;
+        text-align: center;
+        margin-bottom: 3%;
+        color: gray;
+        font-size: 30px;
+        font-family: 'Press Start 2P', cursive;
+    }
+
+    #mostrador {
+        width: 90%;
+        margin-left: 5%;
+        margin-bottom: 2%;
+        padding-top: 12px;
+        padding-left: 1%;
+        padding-right: 1%;
+        font-size: 19px;
+        color: gray;
+        font-family: 'Press Start 2P', cursive;
+    }
+
+    .container {
+        flex-flow: row wrap;
+        align-items: center;
+        text-align: center;
+        width: 60%;
+        justify-content: center;
+        padding: 30px;
+        margin-right: 10%;
+        margin-left: 19%;
+        border-radius: 10px;
+        background: rgb(240, 234, 223);
+    }
+
+    .quadrado {
+        width: 100px;
+        height: 100px;
+        text-align: center;
+        font-size: 29px;
+        background: rgb(172, 172, 175);
+        color: aliceblue;
+        font-family: 'Press Start 2P', cursive;
+        border-radius: 10px;
+    }
+
+    button {
+        text-align: center;
+        font-family: 'Press Start 2P', cursive;
+        font-size: 12px;
+        background: none;
+        color: gray;
+        margin-top: 23px;
+        padding: 15px;
+        border-radius: 10px;
+        border: 1px solid;
+    }
+
+    button:hover {
+        background: gray;
+        color: rgb(241, 238, 238);
+    }
+
+    footer {
+        padding-top: 7px;
+        text-align: center;
+        font-family: 'Press Start 2P', cursive;
+        font-size: 9px;
+        color: gray;
+    }
+}
+
+/* Super Largos (Telas maiores laptops, desktops e até TVs, 1200px para cima) */
+@media only screen and (min-width: 1200px) {
+    body {
+        background: pink;
+    }
+
+    h1 {
+        padding-top: 29px;
+        text-align: center;
+        margin-bottom: 3%;
+        color: gray;
+        font-size: 30px;
+        font-family: 'Press Start 2P', cursive;
+    }
+
+    #mostrador {
+        width: 90%;
+        margin-left: 5%;
+        margin-bottom: 2%;
+        padding-top: 12px;
+        padding-left: 1%;
+        padding-right: 1%;
+        font-size: 19px;
+        color: gray;
+        font-family: 'Press Start 2P', cursive;
+    }
+
+    .container {
+        flex-flow: row wrap;
+        align-items: center;
+        text-align: center;
+        width: 60%;
+        justify-content: center;
+        padding: 30px;
+        margin-right: 10%;
+        margin-left: 19%;
+        border-radius: 10px;
+        background: rgb(240, 234, 223);
+    }
+
+    .quadrado {
+        width: 100px;
+        height: 100px;
+        text-align: center;
+        font-size: 29px;
+        background: rgb(172, 172, 175);
+        color: aliceblue;
+        font-family: 'Press Start 2P', cursive;
+        border-radius: 10px;
+    }
+
+    button {
+        text-align: center;
+        font-family: 'Press Start 2P', cursive;
+        font-size: 13px;
+        background: none;
+        color: gray;
+        margin-top: 25px;
+        padding: 15px;
+        border-radius: 10px;
+        border: 1px solid;
+    }
+
+    button:hover {
+        background: gray;
+        color: rgb(241, 238, 238);
+    }
+
+    footer {
+        padding-top: 2px;
+        text-align: center;
+        font-family: 'Press Start 2P', cursive;
+        font-size: 9px;
+        color: gray;
+    }
+
+}

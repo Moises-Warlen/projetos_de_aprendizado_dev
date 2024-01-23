@@ -1,0 +1,40 @@
+﻿@model EmprestimoModel
+@{
+    ViewData["title "] = "Cadastrar Empréstimos de Materiais";
+}
+
+<div class="container bg-dark p-5" rounded-5>
+    <div class="mb-5 text-center">
+        <h1 class="text-light">Cadastrar Empréstimo</h1>
+    </div>
+
+    <form  method="post" asp-controller="Emprestimo" asp-action="Cadastrar" >
+
+        <div class="mb-3">
+            <label for="Funcionario" class="form-label text-light">Nome do Funcioário:</label>
+            <input type="text" class="form-control text-black" asp-for=" NomeFuncionario" id="Funcionario" placeholder="Quem está pegando o material">
+            <span class="text-danger" asp-validation-for="NomeFuncionario"></span>
+
+        </div>
+        <div class="mb-3">
+            <label for="Fornecedor" class="form-label text-light">Quem esta emprestando:</label>
+            <input type="text" class="form-control text-black" asp-for=" Fornecedor" id="Fornecedor" placeholder="Quem está fornecendo o material">
+            <span class="text-danger" asp-validation-for="Fornecedor"></span>
+
+        </div
+
+        <div class="mb-3">
+            <label for="Produto" class="form-label text-light">Nome do Produto ou Material:</label>
+            <input type="text" class="form-control text- text-black" asp-for=" MaterialEmprestado" id="Material" placeholder="Material que esta sendo emprestado!">
+            <span class="text-danger" asp-validation-for="NomeFuncionario"></span>
+
+        </div>
+
+      <div class="d-flex gap-5 mt-5">
+            <button type="submit" class="btn btn-success w-50"><i class="bi bi-floppy mx-3"></i>Adicionar</button>
+            <a class="btn btn-primary w-50" asp-controller="Emprestimo" asp-action="Index"><i class="bi bi-arrow-90deg-left mx-3"></i>Voltar</a>
+    </div>
+
+
+    </form>
+</div>>
