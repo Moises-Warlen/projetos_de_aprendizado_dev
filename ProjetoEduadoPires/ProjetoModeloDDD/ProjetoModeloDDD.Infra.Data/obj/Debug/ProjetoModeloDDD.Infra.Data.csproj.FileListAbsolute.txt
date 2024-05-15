@@ -1,0 +1,32 @@
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll.config
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.pdb
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\log4net.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\Migrations.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.pdb
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\log4net.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csprojResolveAssemblyReference.cache
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.pdb
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll.config
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.pdb
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\log4net.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\Migrations.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.pdb
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\log4net.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.AssemblyReference.cache
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.pdb

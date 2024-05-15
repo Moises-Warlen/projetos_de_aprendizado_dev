@@ -1,0 +1,173 @@
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.Net4.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\csc.exe
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\vbc.exe
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\VBCSCompiler.exe
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.dll.config
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.pdb
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Antlr3.Runtime.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.Google.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Common.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Mvc.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Owin.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Application.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Optimization.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Razor.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Deployment.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Razor.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\WebActivatorEx.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\WebGrease.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Application.pdb
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.pdb
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.pdb
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Common.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Mvc.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Optimization.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Razor.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Deployment.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Razor.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Antlr3.Runtime.pdb
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.Google.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csprojResolveAssemblyReference.cache
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.dll
+D:\projetos de estudos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.pdb
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.Net4.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\csc.exe
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\vbc.exe
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\VBCSCompiler.exe
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.dll.config
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.pdb
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Antlr3.Runtime.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.Google.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Common.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Mvc.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Owin.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Application.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Optimization.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Razor.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Deployment.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Razor.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\WebActivatorEx.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\WebGrease.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Application.pdb
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.pdb
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.pdb
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.dll.config
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Common.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Ninject.Web.Mvc.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Optimization.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Razor.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Deployment.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Razor.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Antlr3.Runtime.pdb
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.Google.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csproj.AssemblyReference.cache
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csproj.CoreCompileInputs.cache
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csproj.CopyComplete
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.dll
+D:\Nova pasta (3)\Nova pasta (2)\bkp desktop\ProjetoEduadoPires\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.pdb
