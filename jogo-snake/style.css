@@ -1,0 +1,38 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+#gameArea {
+  position: relative;
+  width: 400px;
+  height: 400px;
+  background-color: #cccccc;
+  border: 1px solid #000000;
+}
+.snakeSegment {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: green;
+}
+#fruit {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  border-radius: 50%;
+}
+#score {
+  margin: 10px;
+  font-size: 20px;
+}
+#startButton {
+  padding: 10px 20px;
+  font-size: 16px;
+}
